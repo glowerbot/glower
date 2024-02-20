@@ -1,1 +1,1 @@
-# glower
+# Glower Bot
